@@ -5,6 +5,9 @@ This project is part of CS 461 (Computer Games Programming) course offered at Un
 
 # Team members
 Tamzid Choudhury
+
 Dennis Fuentes
+
 Thomas Coffey
+
 Mo Hasaba
